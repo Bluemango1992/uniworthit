@@ -1,0 +1,131 @@
+{
+    "data": [
+      {
+        "Rank": 1,
+        "Field": "Agriculture, Food, and Related Studies",
+        "Graduates": 19660,
+        "Vacancies": 97753,
+        "VacancyGraduateRatio": 4.972
+      },
+      {
+        "Rank": 2,
+        "Field": "Veterinary",
+        "Graduates": 12145,
+        "Vacancies": 17579,
+        "VacancyGraduateRatio": 1.447
+      },
+      {
+        "Rank": 3,
+        "Field": "Historical and Philosophical Studies",
+        "Graduates": 83085,
+        "Vacancies": 108674,
+        "VacancyGraduateRatio": 1.308
+      },
+      {
+        "Rank": 4,
+        "Field": "Mathematical Sciences",
+        "Graduates": 47145,
+        "Vacancies": 56021,
+        "VacancyGraduateRatio": 1.188
+      },
+      {
+        "Rank": 5,
+        "Field": "Media and Communication",
+        "Graduates": 48135,
+        "Vacancies": 39552,
+        "VacancyGraduateRatio": 0.822
+      },
+      {
+        "Rank": 6,
+        "Field": "Psychology",
+        "Graduates": 140425,
+        "Vacancies": 104737,
+        "VacancyGraduateRatio": 0.746
+      },
+      {
+        "Rank": 7,
+        "Field": "Education",
+        "Graduates": 135960,
+        "Vacancies": 100025,
+        "VacancyGraduateRatio": 0.736
+      },
+      {
+        "Rank": 8,
+        "Field": "Architecture, Building, and Planning",
+        "Graduates": 63610,
+        "Vacancies": 42996,
+        "VacancyGraduateRatio": 0.676
+      },
+      {
+        "Rank": 9,
+        "Field": "Biological and Sport Sciences",
+        "Graduates": 117505,
+        "Vacancies": 71711,
+        "VacancyGraduateRatio": 0.61
+      },
+      {
+        "Rank": 10,
+        "Field": "Computer Science",
+        "Graduates": 164260,
+        "Vacancies": 68215,
+        "VacancyGraduateRatio": 0.415
+      },
+      {
+        "Rank": 11,
+        "Field": "Business and Management",
+        "Graduates": 530460,
+        "Vacancies": 218003,
+        "VacancyGraduateRatio": 0.411
+      },
+      {
+        "Rank": 12,
+        "Field": "Physical Sciences",
+        "Graduates": 67205,
+        "Vacancies": 25842,
+        "VacancyGraduateRatio": 0.385
+      },
+      {
+        "Rank": 13,
+        "Field": "Social Studies",
+        "Graduates": 286325,
+        "Vacancies": 100083,
+        "VacancyGraduateRatio": 0.35
+      },
+      {
+        "Rank": 14,
+        "Field": "Engineering and Technology",
+        "Graduates": 185725,
+        "Vacancies": 64609,
+        "VacancyGraduateRatio": 0.348
+      },
+      {
+        "Rank": 15,
+        "Field": "Creative Arts and Design",
+        "Graduates": 189890,
+        "Vacancies": 58990,
+        "VacancyGraduateRatio": 0.311
+      },
+      {
+        "Rank": 16,
+        "Field": "Languages",
+        "Graduates": 87795,
+        "Vacancies": 23078,
+        "VacancyGraduateRatio": 0.263
+      },
+      {
+        "Rank": 17,
+        "Field": "Law",
+        "Graduates": 142330,
+        "Vacancies": 30714,
+        "VacancyGraduateRatio": 0.216
+      },
+      {
+        "Rank": 18,
+        "Field": "Subjects Allied to Medicine",
+        "Graduates": 366210,
+        "Vacancies": 50000,
+        "VacancyGraduateRatio": 0.137
+      }
+    ]
+  }
+  
